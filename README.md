@@ -26,22 +26,6 @@ My journey spans:
 
 ---
 
-## 🚀 Notable Projects
-
-### 🩺 **Early-Stage Diabetes Risk Prediction**
-> Built a machine learning model to detect early signs of diabetes using health indicators
-
-### 🎥 **IMDB Review Binary Classification**
-> Developed a deep learning model using NLP techniques to classify sentiment from movie reviews. Explored tokenization, embeddings...
-
-### 📈 **Netflix Data Analysis**
-> Performed exploratory data analysis (EDA) and storytelling through visualizations. Investigated trends in content, genre distributions, and release dynamics.
-
-### 🧮 **Linear Regression from Scratch**
-> Implemented the linear regression algorithm from scratch without relying on scikit learn library
-
----
-
 ## 🧪 Current Focus – MediSight AI
 🚀 I'm currently building MediSight, an AI-powered medical assistant designed to streamline diagnosis support using natural language processing and clinical data. This project combines my interests in healthcare AI, LLMs, and machine learning systems.
 
