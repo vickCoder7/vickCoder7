@@ -34,6 +34,6 @@ My journey spans:
 
 _“The best way to predict the future is to invent it.” – Alan Kay_
 
-_“Life doesn't owe us anything.” Bronnie Ware_
+_“Life doesn't owe us anything.” – Bronnie Ware_
 
 ---
