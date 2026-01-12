@@ -26,11 +26,6 @@ My journey spans:
 
 ---
 
-## 🧪 Current Focus – MediSight AI
-🚀 I'm currently building MediSight, an AI-powered medical assistant designed to streamline diagnosis support using natural language processing and clinical data. This project combines my interests in healthcare AI, LLMs, and machine learning systems.
-
----
-
 ## 📚 Certifications & Learning
 
 - 🧠 [MLOps Specialization – Duke University (In progress)](https://coursera.org)
@@ -38,16 +33,6 @@ My journey spans:
 - 🛰️ [ROS for Robotics (SLAM, Navigation, Localization)](https://udemy.com)
 ---
 
-## 🔍 Interests
-
-- 📈 Data Science and ML
-- 🌍 AI for Global Health
-- 🧬 Clinical NLP (Electronic Health Records)
-- 🌱 AI & Sustainability
-- 🤖 Intelligent Robotics
-
----
-
 _“The best way to predict the future is to invent it.” – Alan Kay_
-
+"Life doesn't owe anyone anything." - _
 ---
