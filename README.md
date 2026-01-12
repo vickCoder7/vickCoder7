@@ -18,9 +18,9 @@ My journey spans:
 ## 🔧 Key Skills
 
 - **Languages:** Python, LaTeX, SQL, Mathematica
-- **Libraries/Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn
+- **Libraries/Frameworks:** FastAPI, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn
 - **Tools:** Git, Jupyter, VSCode, Linux, Docker, Google Colab, ROS
-- **Core Areas:** Machine Learning, Deep Learning, Data Visualization, Natural Language Processing (NLP), Dynamical Systems, Reinforcement Learning
+- **Core Areas:** Machine Learning, Deep Learning, Data Visualization, Natural Language Processing (NLP)
 - **Soft Skills:** Resilience, research rigor, curiosity, intellectual humility, and cross-cultural collaboration
 
 ---
