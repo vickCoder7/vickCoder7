@@ -1,8 +1,7 @@
 # 👋 Hi there, I’m Victor | Data Science & Machine Learning Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/victoryaotseagbadan777))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat)]([https://your-portfolio-link](https://sites.google.com/view/victoryaotseagbadan/about-me?authuser=0))
-[![Email](https://img.shields.io/badge/Email-agbadanvictor@gmail.com-blue)](mailto:agbadanvictor@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/victoryaotseagbadan777))
+[![Email](https://img.shields.io/badge/Email-agbadanvictor@gmail.com-blue)]((mailto:agbadanvictor@gmail.com))
 
 ---
 
@@ -34,5 +33,7 @@ My journey spans:
 ---
 
 _“The best way to predict the future is to invent it.” – Alan Kay_
-"Life doesn't owe anyone anything." - _
+
+_“Life doesn't owe you anything.”_
+
 ---
