@@ -1,11 +1,11 @@
-# 👋 Hi there, I’m Victor | Data Science & Machine Learning Enthusiast
+# Hi there, I’m Victor | Data Science & Machine Learning Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/victoryaotseagbadan777))
 [![Email](https://img.shields.io/badge/Email-agbadanvictor@gmail.com-blue)]((mailto:agbadanvictor@gmail.com))
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m Victor, a graduate of **BSc (Hons) Mathematics** student at **Kirori Mal College, University of Delhi**, originally from **Togo** 🇹🇬. With a deep passion for **data science**, **machine learning**, and **AI for social impact**, I’m on a mission to build **intelligent systems** that advance **healthcare**, **resource optimization**, and **global sustainability**.
 
