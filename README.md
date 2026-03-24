@@ -11,7 +11,7 @@ I’m Victor, a graduate of **BSc (Hons) Mathematics** student at **Kirori Mal C
 
 My journey spans:
 - Academic excellence in math, statistics, and computer science.
-- Research experience in **dynamical systems**, **deep learning**, and **natural language processing**.
+- Research experience in applied mathematics, machine learning, quantum computing
 
 ---
 
