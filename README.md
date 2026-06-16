@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/victoryaotseagbadan777" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:agbadanvictor@gmail.com" target="_blank">
+  <a href="mailto:vickcoder7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -19,8 +19,8 @@
 
 I’m Victor, a graduate in **BSc (Hons) Mathematics** from **Kirori Mal College, University of Delhi**, originally from **Togo** 🇹🇬. With a deep passion for **data science**, **machine learning**, and **AI for social impact**, I’m on a mission to build **intelligent systems** that advance **healthcare**, **resource optimization**, and **global sustainability**.
 
-- 🔭 Currently refining my expertise in **Deep Learning**, **MLOps**, and **Robotics**.
-- 🔬 Experienced in **applied mathematics, machine learning, and quantum computing**.
+- 🔭 Currently refining my expertise in **Deep Learning**, **MLOps**, and **quantum computing**.
+- 🔬 Experienced in **applied mathematics, data science and machine learning**.
 - 🌱 On a continuous journey of learning and exploring **intelligent systems**.
 - 📫 How to reach me: **[vickcoder7@gmail.com](mailto:vickcoder7@gmail.com)**
 
