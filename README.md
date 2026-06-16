@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I’m Victor, a graduate in **BSc (Hons) Mathematics** from **Kirori Mal College, University of Delhi**, originally from **Togo** 🇹🇬. With a deep passion for **data science**, **machine learning**, and **AI for social impact**, I’m on a mission to build **intelligent systems** that advance **healthcare**, **resource optimization**, and **global sustainability**.
+I’m Victor, a graduate in **BSc (Hons) Mathematics** from **Kirori Mal College, University of Delhi**, originally from **Togo** 🇹🇬. With a deep passion for **data science**, **machine learning**, and a growing interest in astronomy. I’m on a mission to build **intelligent systems** that advance **healthcare**, **understanding of the universe**
 
 - 🔭 Currently refining my expertise in **Deep Learning**, **MLOps**, and **quantum computing**.
 - 🔬 Experienced in **applied mathematics, data science and machine learning**.
