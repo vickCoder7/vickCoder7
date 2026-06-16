@@ -22,7 +22,7 @@ I’m Victor, a graduate in **BSc (Hons) Mathematics** from **Kirori Mal College
 - 🔭 Currently refining my expertise in **Deep Learning**, **MLOps**, and **Robotics**.
 - 🔬 Experienced in **applied mathematics, machine learning, and quantum computing**.
 - 🌱 On a continuous journey of learning and exploring **intelligent systems**.
-- 📫 How to reach me: **[agbadanvictor@gmail.com](mailto:agbadanvictor@gmail.com)**
+- 📫 How to reach me: **[vickcoder7@gmail.com](mailto:vickcoder7@gmail.com)**
 
 ---
 
