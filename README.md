@@ -48,10 +48,10 @@ My technical journey is tailored towards roles in **Quantitative Research**, **M
   - Developed a scalable nonlinear spectral clustering model using hierarchical bounded plane segment prototypes. (Manuscript submitted).
 - 🧮 **LLM-Powered Financial Auditor**
   - Engineered a zero-dependency RAG pipeline with an in-memory BM25 index to extract key financial metrics from SEC filings with high accuracy.
-- 🤟 **Deep Learning for Sign Language Recognition** *(Maitreyi College)*
+- 🤟 **Deep Learning for Sign Language Recognition** *(University of Delhi, Maitreyi College)*
   - Engineered full-cycle preprocessing and training pipelines for Indian Sign Language recognition using VGG16 and YOLOv8 architectures.
 - 🤖 **Autonomous Pathfinding** *(KMC Robo-Physicists)*
-  - Implemented an autonomous pathfinding algorithm in C++ for rover navigation across 10+ obstacle types.
+  - Implemented an autonomous pathfinding algorithm using Python + ROS for rover navigation across 10+ obstacle types.
 
 ---
 
