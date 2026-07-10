@@ -57,7 +57,7 @@ My technical journey is tailored towards roles in **Quantitative Research**, **M
 
 ### GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vickCoder7&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vickCoder7&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vickCoder7&theme=radium&hide_border=true" alt="Victor's GitHub Streak" />
 </p>
 
