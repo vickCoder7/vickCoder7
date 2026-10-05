@@ -2,20 +2,17 @@
   <h1>Hi there, I'm Victor Agbadan 👋</h1>
   <h3>Mathematician | Machine Learning Researcher | Aspiring Quant & ML Engineer</h3>
   
-  *🌍 Originally from Togo, currently based in India as an ICCR Scholar.*
+  *🌍 Originally from Togo, currently pursuing an MPhil in Data Intensive Science at the University of Cambridge*
 </div>
 
 ---
 
-I am a mathematician and machine learning researcher with a deep passion for bridging rigorous mathematics with high-performance computational engineering. Currently, I am focused on building scalable ML models, optimizing algorithms, and exploring financial market microstructures. 
+I am a mathematician and machine learning researcher with a deep passion for machine learning and a growing interest in finance. I am focused on building scalable ML models, optimizing algorithms, and exploring financial market microstructures. 
 
 My technical journey is tailored towards roles in **Quantitative Research**, **Machine Learning Engineering (MLE)**, and **High-Performance Computing (HPC)**.
 
 ### What I'm currently up to
-- 🔬 **Machine Learning Research Intern** at *Delhi Technological University*, developing novel, scalable spectral clustering algorithms using bounded plane segments.
 - 💻 Deepening my expertise in **C++**, **Data Structures & Algorithms (DSA)**, and **Low-Level Computer Architecture** for quantitative finance and HPC applications.
-- 📈 Building a **Limit Order Book (LOB) Predictor** to model financial market microstructures.
-- 🤖 Exploring zero-dependency RAG pipelines and LLM-based financial data extraction.
 
 ---
 
