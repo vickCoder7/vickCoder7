@@ -9,10 +9,10 @@
 
 I am a mathematician and machine learning researcher with a deep passion for machine learning and a growing interest in finance. I am focused on building scalable ML models, optimizing algorithms, and exploring financial market microstructures. 
 
-My technical journey is tailored towards roles in **Quantitative Research**, **Machine Learning Engineering (MLE)**, and **High-Performance Computing (HPC)**.
+[//]: # (My technical journey is tailored towards roles in **Quantitative Research**, **Machine Learning Engineering (MLE)**, and **High-Performance Computing (HPC)**.)
 
-### What I'm currently up to
-- 💻 Deepening my expertise in **C++**, **Data Structures & Algorithms (DSA)**, and **Low-Level Computer Architecture** for quantitative finance and HPC applications.
+[//]: # (### What I'm currently up to
+- 💻 Deepening my expertise in **C++**, **Data Structures & Algorithms (DSA)**, and **Low-Level Computer Architecture** for quantitative finance and HPC applications.)
 
 ---
 
@@ -41,13 +41,13 @@ My technical journey is tailored towards roles in **Quantitative Research**, **M
 
 ### Highlighted Experience & Projects
 
-- 🧠 **Scalable Spectral Clustering Research** *(Delhi Technological University)*
+- **Scalable Spectral Clustering Research** *(Delhi Technological University)*
   - Developed a scalable nonlinear spectral clustering model using hierarchical bounded plane segment prototypes. (Manuscript submitted).
-- 🧮 **LLM-Powered Financial Auditor**
+- **LLM-Powered Financial Auditor**
   - Engineered a zero-dependency RAG pipeline with an in-memory BM25 index to extract key financial metrics from SEC filings with high accuracy.
-- 🤟 **Deep Learning for Sign Language Recognition** *(University of Delhi, Maitreyi College)*
+-  **Deep Learning for Sign Language Recognition** *(University of Delhi, Maitreyi College)*
   - Engineered full-cycle preprocessing and training pipelines for Indian Sign Language recognition using VGG16 and YOLOv8 architectures.
-- 🤖 **Autonomous Pathfinding** *(KMC Robo-Physicists)*
+-  **Autonomous Pathfinding** *(KMC Robo-Physicists)*
   - Implemented an autonomous pathfinding algorithm using Python + ROS for rover navigation across 10+ obstacle types.
 
 ---
