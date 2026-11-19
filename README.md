@@ -46,7 +46,7 @@ I am a mathematician and machine learning researcher with a deep passion for mac
 - **LLM-Powered Financial Auditor**
   - Engineered a zero-dependency RAG pipeline with an in-memory BM25 index to extract key financial metrics from SEC filings with high accuracy.
 -  **Deep Learning for Sign Language Recognition** *(University of Delhi, Maitreyi College)*
-  - Engineered full-cycle preprocessing and training pipelines for Indian Sign Language recognition using VGG16 and YOLOv8 architectures.
+    - Engineered full-cycle preprocessing and training pipelines for Indian Sign Language recognition using VGG16 and YOLOv8 architectures.
 -  **Autonomous Pathfinding** *(KMC Robo-Physicists)*
     - Implemented an autonomous pathfinding algorithm using Python + ROS for rover navigation across 10+ obstacle types.
 
