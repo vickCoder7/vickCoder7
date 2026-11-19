@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Victor Agbadan 👋</h1>
+  <h1>Hi there, I'm Victor Agbadan</h1>
   <h3>Mathematician | Machine Learning Researcher | Aspiring Quant & ML Engineer</h3>
   
   *🌍 Originally from Togo, currently pursuing an MPhil in Data Intensive Science at the University of Cambridge*
