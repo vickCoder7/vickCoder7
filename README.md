@@ -9,10 +9,10 @@
 
 I am a mathematician and machine learning researcher with a deep passion for machine learning and a growing interest in finance. I am focused on building scalable ML models, optimizing algorithms, and exploring financial market microstructures. 
 
-[comment]: <> (My technical journey is tailored towards roles in **Quantitative Research**, **Machine Learning Engineering (MLE)**, and **High-Performance Computing (HPC)**.)
+[//]: # "My technical journey is tailored towards roles in **Quantitative Research**, **Machine Learning Engineering (MLE)**, and **High-Performance Computing (HPC)**."
 
-[//]: # "### What I'm currently up to
-- 💻 Deepening my expertise in **C++**, **Data Structures & Algorithms (DSA)**, and **Low-Level Computer Architecture** for quantitative finance and HPC applications."
+[//]: # "### What I'm currently up to"
+[//]: # "- 💻 Deepening my expertise in **C++**, **Data Structures & Algorithms (DSA)**, and **Low-Level Computer Architecture** for quantitative finance and HPC applications."
 
 ---
 
